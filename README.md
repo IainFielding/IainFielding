@@ -15,3 +15,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### :man_technologist: About Me : 
+I am a Cloud Architect from Scotland
+- :telescope: I’m working as an Azure Cloud Architect work with an Enterprise Scale Adtoption framework.
+
+- :seedling: Exploring Technical Content Writing.
+
+- 🤺 In my free time, I travel the UK compenting at foil fencing.
+
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iainfielding/)
