@@ -1,11 +1,11 @@
 
+
+![](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif "working on computer")
+
 [![Linkedin: IainFielding](https://img.shields.io/badge/-IainFielding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IainFielding/)](https://www.linkedin.com/in/iainfielding/)
 [![Twitter: IainFielding](https://img.shields.io/twitter/follow/IainFielding?style=social)](https://twitter.com/IainFielding)
 [![GitHub IainFielding](https://img.shields.io/github/followers/IainFielding?label=IainFielding&style=social)](https://github.com/IainFielding)
 ![Twitch Status](https://img.shields.io/twitch/status/Sogrom?label=Sogrom&style=social)
-
-
-![](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif "working on computer")
 
 ---
 
